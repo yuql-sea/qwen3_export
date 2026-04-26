@@ -73,7 +73,7 @@ vocab_size = 151936
 
 ### 3.2 导出命令
 ```bash
-cd /home/yuql/workspace/ASR/qwen_export/qwene_export
+cd /home/yuql/workspace/ASR/qwen_export/qwen3_export
 /home/yuql/miniconda3/envs/OSUM/bin/python export/export_qwen3_separate.py \
     --device_str cpu \
     --dtype float16 \

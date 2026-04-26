@@ -617,7 +617,7 @@ Decode ONNX 模型导出为外部权重格式（`Constant_*` 和 `model.*.weight
 source /home/yuql/miniconda3/bin/activate OSUM
 
 # 2. 进入工作目录
-cd /home/yuql/workspace/ASR/qwen_export/qwene_export
+cd /home/yuql/workspace/ASR/qwen_export/qwen3_export
 
 # 3. 导出 ONNX 模型
 python export/export_qwen3_separate.py \
