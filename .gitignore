@@ -1,0 +1,5 @@
+# ONNX 导出到 /home/yuql/workspace/ASR/onnx_hub/，不在本目录
+*.onnx
+output/
+__pycache__/
+*.pyc
