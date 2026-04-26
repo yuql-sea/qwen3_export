@@ -2,6 +2,8 @@
 
 Qwen3-0.6B 模型的 ONNX 分离导出项目，支持 Embedding / Prefill / Decode 三阶段推理。
 
+本项目基于 [ascend-llm](https://gitee.com/yinghuo302/ascend-llm) 的参考实现。
+
 ## 项目结构
 
 ```
